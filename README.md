@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 - 🎓 B.Tech in Computer Science (CSE'27) @ SR University  
-- 💡 I love building beautiful websites & exploring data   
+- 💡 I love building beautiful websites & exploring data  
 - ✨ Passionate about clean UI, creative ideas & solving real-world problems
 
 ---
@@ -51,9 +51,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-✉️ Email: *charanvitha@email.com*  
-🌍 Portfolio site: *coming soon...*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charanvitha-desini-1b7b71312)  
+✉️ **Email**: [charanvithadeshini@gmail.com](mailto:charanvithadeshini@gmail.com)
 
 ---
 
