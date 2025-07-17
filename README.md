@@ -1,8 +1,14 @@
+<img src="https://i.imgur.com/9b9EkTz.png" alt="Banner" width="100%">
+
 <h1 align="center">Hi there 👋, I'm Charanvitha Desini</h1>
 <h3 align="center">A Creative CSE Undergrad | Front-End Developer | Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charanvitha&label=Profile%20views&color=0e75b6&style=flat" alt="Charanvitha" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
 </p>
 
 ---
@@ -56,4 +62,10 @@
 
 ---
 
-<p align="center"><b>“Dream. Design. Debug. Deliver.”</b></p>
+### ✨ Quote I Live By
+
+<p align="center"><i>"The best way to predict the future is to create it."</i></p>
+
+---
+
+<p align="center"><b>“Dream. Design. Debug. Deliver.” 💡</b></p>
