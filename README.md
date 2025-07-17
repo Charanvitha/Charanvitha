@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/9b9EkTz.png" alt="Banner" width="100%">
+
 
 <h1 align="center">Hi there 👋, I'm Charanvitha Desini</h1>
 <h3 align="center">A Creative CSE Undergrad | Front-End Developer | Data Enthusiast</h3>
